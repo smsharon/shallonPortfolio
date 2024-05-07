@@ -6,7 +6,7 @@ const Intro = () => {
   return (
     <section id='intro'>
         <div className='introContent'>
-            <span className='hello'>Hello</span>
+            <span className='hello'>Hello,</span>
             <span className='introText'> I'm <span className='introName'>Shallon Said</span> <br />Software Engineer</span>
             <p className='introPara'>I am a skilled software engineer with experience in creating web and mobile applications.</p>
 
