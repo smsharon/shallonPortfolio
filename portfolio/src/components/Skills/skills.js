@@ -9,6 +9,24 @@ const Skills = () => {
         <div className='skillBars'>
           <div className='skillBar'>
             <img src='' alt='' className='skillBarImg' />
+            <div className='skillBarText'>
+              <h2>lorem</h2>
+              <p></p>
+            </div>
+          </div>
+          <div className='skillBar'>
+            <img src='' alt='' className='skillBarImg' />
+            <div className='skillBarText'>
+              <h2>lorem</h2>
+              <p></p>
+            </div>
+          </div>
+          <div className='skillBar'>
+            <img src='' alt='' className='skillBarImg' />
+            <div className='skillBarText'>
+              <h2>lorem</h2>
+              <p></p>
+            </div>
           </div>
         </div>
 
