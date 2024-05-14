@@ -10,22 +10,22 @@ const Skills = () => {
           <div className='skillBar'>
             <img src='' alt='UIDesign' className='skillBarImg' />
             <div className='skillBarText'>
-              <h2>lorem</h2>
-              <p></p>
+              <h2>UI/UX Design</h2>
+              <p>This is a demo text.</p>
             </div>
           </div>
           <div className='skillBar'>
             <img src='' alt='webDesign' className='skillBarImg' />
             <div className='skillBarText'>
-              <h2>lorem</h2>
-              <p></p>
+              <h2>Website Design</h2>
+              <p>This is a demo text.</p>
             </div>
           </div>
           <div className='skillBar'>
             <img src='' alt='AppDesign' className='skillBarImg' />
             <div className='skillBarText'>
-              <h2>lorem</h2>
-              <p></p>
+              <h2>App Design</h2>
+              <p>This is a demo text.</p>
             </div>
           </div>
         </div>
